@@ -58,3 +58,4 @@ Push this folder to the repo, then enable Pages with the included workflow
 (`.github/workflows/deploy.yml` — builds with Node 22 and publishes `dist/`).
 `public/CNAME` keeps the `sagarika.work` custom domain; remove it if the
 site should live at `<user>.github.io/<repo>/` instead.
+
